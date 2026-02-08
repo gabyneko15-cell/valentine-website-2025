@@ -36,8 +36,7 @@ const CONFIG = {
             text: "Do you accept to be stuck with me for ever ?",
             yesBtn: "Yes I do",
             noBtn: "No",
-            
-        },
+         },
         fourth: {
             text: "Will you be my Valentine on February 14th, 2026 my favorite alien? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
