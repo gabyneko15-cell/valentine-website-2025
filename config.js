@@ -35,8 +35,8 @@ const CONFIG = {
         third: {
             text: "Do you accept to be stuck with me for ever ?",
             yesBtn: "Yes I do",
-            noBtn: "No, why should I ?",
-            secretAnswer: "Then I'll always be your good girl with cute puppy eyes !😆😝🤭😚"
+            noBtn: "No",
+            
         },
         fourth: {
             text: "Will you be my Valentine on February 14th, 2026 my favorite alien? 🌹", // The big question!
